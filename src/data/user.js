@@ -1,4 +1,4 @@
-const user = {
+const User = {
   name: "Liza",
   city: "New York",
   bio: "I made this!",
@@ -9,4 +9,4 @@ const user = {
   },
 };
 
-export default user;
+export default User;
